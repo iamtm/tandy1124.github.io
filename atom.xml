@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tandy</title>
+  
+  <subtitle>find something to play, find someone to love.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-28T13:45:23.517Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tandy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于简繁的一些感想</title>
+    <link href="http://yoursite.com/2020/04/28/%E5%85%B3%E4%BA%8E%E7%AE%80%E7%B9%81%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/"/>
+    <id>http://yoursite.com/2020/04/28/%E5%85%B3%E4%BA%8E%E7%AE%80%E7%B9%81%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/</id>
+    <published>2020-04-28T13:44:58.000Z</published>
+    <updated>2020-04-28T13:45:23.517Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关于简繁的一些感想&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
+&lt;h2 id=&quot;憶&quot;&gt;&lt;a href=&quot;#憶&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/04/28/hello-world/"/>
+    <id>http://yoursite.com/2020/04/28/hello-world/</id>
+    <published>2020-04-28T13:34:55.129Z</published>
+    <updated>2020-04-28T13:34:55.129Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
