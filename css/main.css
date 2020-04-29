@@ -1219,7 +1219,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #747825;
+  background: #1f7e96;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2899,6 +2899,14 @@ body {
     font-size: 26px;
     line-height: 20px;
   }
+}
+.book-mark-link::before {
+  color: #49b1f5;
+  content: '\f02e';
+  font-size: 32px;
+  line-height: 1;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
 }
 .site-brand-container {
   display: flex;
