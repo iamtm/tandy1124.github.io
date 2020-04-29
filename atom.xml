@@ -18,17 +18,14 @@
   
   <entry>
     <title>关于简繁的一些感想</title>
-    <link href="http://tandy1229.com/archives/undefined.html"/>
-    <id>http://tandy1229.com/archives/undefined.html</id>
+    <link href="http://tandy1229.com/archives/47671.html"/>
+    <id>http://tandy1229.com/archives/47671.html</id>
     <published>2020-04-28T13:44:58.000Z</published>
     <updated>2020-04-29T07:59:41.171Z</updated>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;关于简繁的一些感想&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
+      &lt;!-- build time:Wed Apr 29 2020 20:46:51 GMT+0800 (中国标准时间) --&gt;&lt;blockquote&gt;&lt;p&gt;关于简繁的一些感想&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
     
     </summary>
     
@@ -42,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tandy1229.com/archives/undefined.html"/>
-    <id>http://tandy1229.com/archives/undefined.html</id>
+    <link href="http://tandy1229.com/archives/16107.html"/>
+    <id>http://tandy1229.com/archives/16107.html</id>
     <published>2020-04-28T13:34:55.129Z</published>
     <updated>2020-04-28T13:34:55.129Z</updated>
     
@@ -53,7 +50,7 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;!-- build time:Wed Apr 29 2020 20:46:51 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;i
         
       
     
