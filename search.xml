@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/archives/16107.html</url>
-    <content><![CDATA[<!-- build time:Thu Apr 30 2020 17:28:36 GMT+0800 (中国标准时间) --><p><img src="%22../../public/images/hello.jpg%22" alt="helloworld"></p><p>你好，世界！</p><!-- rebuild by neat -->]]></content>
+    <content><![CDATA[<!-- build time:Thu Apr 30 2020 19:05:14 GMT+0800 (中国标准时间) --><p><img src="/images/hello.jpg" alt=""></p><p>你好，世界！</p><!-- rebuild by neat -->]]></content>
   </entry>
   <entry>
     <title>关于简繁的一些感想</title>
@@ -14,6 +14,14 @@
       </categories>
       <tags>
         <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>已适配暗黑模式</title>
+    <url>/archives/41611.html</url>
+    <content><![CDATA[<!-- build time:Thu Apr 30 2020 19:06:52 GMT+0800 (中国标准时间) --><p>利用CSS的<code>@media (prefers-color-scheme: dark)</code>属性，实现了本博客的暗黑模式。<br>可随用户设备的主题样式无缝切换</p><a id="more"></a><p><img src="images/ex.jpg" alt=""></p><h2 id="如何使用暗黑模式"><a href="#如何使用暗黑模式" class="headerlink" title="如何使用暗黑模式"></a>如何使用暗黑模式</h2><h3 id="对于window用户"><a href="#对于window用户" class="headerlink" title="对于window用户"></a>对于<strong>window</strong>用户</h3><p>1.右键打开个性化<br><img src="images/window1.png" alt=""><br>2.点击颜色<br><img src="images/window2.png" alt=""><br>3.选择深色<br><img src="images/window3.png" alt=""><br>即可无缝切换</p><h3 id="对于MacOS用户"><a href="#对于MacOS用户" class="headerlink" title="对于MacOS用户"></a>对于MacOS用户</h3><p>从MacOS 10.14开始，Apple开发了深色模式<br>1.打开系统偏好设置<br>2.点击通用<br><img src="images/tong.png" alt=""><br>3.选择深色<br><img src="images/shen.png" alt=""><br>即可享用</p><h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><p><img src="images/fix.jpg" alt=""></p><p>如果你的设备支持<strong>深色模式</strong>且你所使用的<strong>浏览器</strong>支持CSS的<code>prefers-color-scheme: dark</code>属性，那就放心食用吧👯‍♀️</p><!-- rebuild by neat -->]]></content>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>

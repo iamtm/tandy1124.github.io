@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tandy1229.com/"/>
-  <updated>2020-04-29T12:46:51.297Z</updated>
+  <updated>2020-04-30T11:06:40.935Z</updated>
   <id>http://tandy1229.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>已适配暗黑模式</title>
+    <link href="http://tandy1229.com/archives/41611.html"/>
+    <id>http://tandy1229.com/archives/41611.html</id>
+    <published>2020-04-30T09:36:19.000Z</published>
+    <updated>2020-04-30T11:06:40.935Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Apr 30 2020 19:06:52 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;code&gt;@media (prefers-color-scheme: dark)&lt;/code&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://tandy1229.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>关于简繁的一些感想</title>
@@ -42,7 +61,7 @@
     <link href="http://tandy1229.com/archives/16107.html"/>
     <id>http://tandy1229.com/archives/16107.html</id>
     <published>2020-04-28T13:34:55.129Z</published>
-    <updated>2020-04-30T09:28:36.811Z</updated>
+    <updated>2020-04-30T10:11:23.999Z</updated>
     
     <summary type="html">
     
@@ -50,7 +69,7 @@
       
         
         
-          &lt;!-- build time:Thu Apr 30 2020 17:28:36 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;%22../../public/images/hello.jpg%22&quot;
+          &lt;!-- build time:Thu Apr 30 2020 19:05:14 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;/images/hello.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;你好，世界！&lt;/p&gt;&lt;!-- rebuild by neat
         
       
     
