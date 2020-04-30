@@ -5,9 +5,9 @@
   <subtitle>find something to play, find someone to love.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://tandy1229.com/"/>
+  <link href="https://tandy1229.com/"/>
   <updated>2020-04-30T11:06:40.935Z</updated>
-  <id>http://tandy1229.com/</id>
+  <id>https://tandy1229.com/</id>
   
   <author>
     <name>Tandy</name>
@@ -18,50 +18,50 @@
   
   <entry>
     <title>已适配暗黑模式</title>
-    <link href="http://tandy1229.com/archives/41611.html"/>
-    <id>http://tandy1229.com/archives/41611.html</id>
+    <link href="https://tandy1229.com/archives/41611.html"/>
+    <id>https://tandy1229.com/archives/41611.html</id>
     <published>2020-04-30T09:36:19.000Z</published>
     <updated>2020-04-30T11:06:40.935Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 30 2020 22:03:39 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;code&gt;@media (prefers-color-scheme: dark)&lt;/code&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
+      &lt;!-- build time:Fri May 01 2020 01:09:19 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;code&gt;@media (prefers-color-scheme: dark)&lt;/code&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
     
     </summary>
     
     
     
-      <category term="hexo" scheme="http://tandy1229.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://tandy1229.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>关于简繁的一些感想</title>
-    <link href="http://tandy1229.com/archives/47671.html"/>
-    <id>http://tandy1229.com/archives/47671.html</id>
+    <link href="https://tandy1229.com/archives/47671.html"/>
+    <id>https://tandy1229.com/archives/47671.html</id>
     <published>2020-04-28T13:44:58.000Z</published>
     <updated>2020-04-29T12:46:51.297Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 30 2020 22:03:39 GMT+0800 (中国标准时间) --&gt;&lt;blockquote&gt;&lt;p&gt;关于简繁的一些感想&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
+      &lt;!-- build time:Fri May 01 2020 01:09:19 GMT+0800 (中国标准时间) --&gt;&lt;blockquote&gt;&lt;p&gt;关于简繁的一些感想&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="文思" scheme="http://tandy1229.com/categories/%E6%96%87%E6%80%9D/"/>
+      <category term="文思" scheme="https://tandy1229.com/categories/%E6%96%87%E6%80%9D/"/>
     
     
-      <category term="随想" scheme="http://tandy1229.com/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="https://tandy1229.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tandy1229.com/archives/16107.html"/>
-    <id>http://tandy1229.com/archives/16107.html</id>
+    <link href="https://tandy1229.com/archives/16107.html"/>
+    <id>https://tandy1229.com/archives/16107.html</id>
     <published>2020-04-28T13:34:55.129Z</published>
-    <updated>2020-04-30T10:11:23.999Z</updated>
+    <updated>2020-04-30T16:28:18.355Z</updated>
     
     <summary type="html">
     
@@ -69,7 +69,7 @@
       
         
         
-          &lt;!-- build time:Thu Apr 30 2020 22:03:39 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;/images/hello.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;你好，世界！&lt;/p&gt;&lt;!-- rebuild by neat
+          &lt;!-- build time:Fri May 01 2020 01:09:19 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;/images/hello.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;blockquote
         
       
     
