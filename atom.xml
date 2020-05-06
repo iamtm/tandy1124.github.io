@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 16:24:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;@media&lt;/span&gt; (&lt;span class=&quot;attribute&quot;&gt;prefers-color-scheme:&lt;/span&gt; dark)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 16:33:27 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;@media&lt;/span&gt; (&lt;span class=&quot;attribute&quot;&gt;prefers-color-scheme:&lt;/span&gt; dark)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
     
     </summary>
     
@@ -44,7 +44,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 15:29:55 GMT+0800 (中国标准时间) --&gt;&lt;blockquote&gt;&lt;p&gt;关于简繁的一些感想&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 16:33:27 GMT+0800 (中国标准时间) --&gt;&lt;blockquote&gt;&lt;p&gt;关于简繁的一些感想&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;最近接触了一些繁体字，感觉简体字在很多方面简化的有点过头了，有些在字形上甚至看不出其本来的意思。&lt;/p&gt;
     
     </summary>
     
@@ -61,7 +61,7 @@
     <link href="https://tandy1229.com/archives/16107.html"/>
     <id>https://tandy1229.com/archives/16107.html</id>
     <published>2020-04-28T13:34:55.129Z</published>
-    <updated>2020-05-01T12:19:24.306Z</updated>
+    <updated>2020-05-06T08:43:03.173Z</updated>
     
     <summary type="html">
     
@@ -69,7 +69,7 @@
       
         
         
-          &lt;!-- build time:Wed May 06 2020 15:29:55 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg&quot;
+          &lt;!-- build time:Wed May 06 2020 16:43:13 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg&quot;
         
       
     
