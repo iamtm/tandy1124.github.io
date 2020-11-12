@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tandy1229.com/"/>
-  <updated>2020-10-22T15:23:57.294Z</updated>
+  <updated>2020-11-12T09:13:20.606Z</updated>
   <id>https://tandy1229.com/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mac-Linux命令行配置指南</title>
+    <link href="https://tandy1229.com/archives/6e3e2b80.html"/>
+    <id>https://tandy1229.com/archives/6e3e2b80.html</id>
+    <published>2020-11-12T08:38:29.989Z</published>
+    <updated>2020-11-12T09:13:20.606Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Mac命令行配置&quot;&gt;&lt;a href=&quot;#Mac命令行配置&quot; class=&quot;headerlink&quot; title=&quot;Mac命令行配置&quot;&gt;&lt;/a&gt;Mac命令行配置&lt;/h1&gt;&lt;p&gt;每次要重裝系统或者换上新的电脑上的时候，我们会发现我们需要重新配置我们用习惯的环境。&lt;br&gt;(其实是最近这几天学校的课程又要求装一个win7虚拟机进行病毒测试，而前几天那个课程又下了个kali虚拟机，我的硬盘空间满了，故不得不重装系统。&lt;br&gt;鉴于这一年以来我也重装了5、6次系统（把macOS当做Linux折腾的缘故），我觉得是有必要写一篇如何配置一个计算机专业专用的环境的文章。&lt;br&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>希腊字母表备记</title>
     <link href="https://tandy1229.com/archives/560a262c.html"/>
     <id>https://tandy1229.com/archives/560a262c.html</id>
     <published>2020-10-22T15:04:05.000Z</published>
-    <updated>2020-10-22T15:23:57.294Z</updated>
+    <updated>2020-10-22T15:23:57.290Z</updated>
     
     <summary type="html">
     
@@ -36,11 +53,34 @@
   </entry>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://tandy1229.com/archives/16107.html"/>
+    <id>https://tandy1229.com/archives/16107.html</id>
+    <published>2020-09-24T05:01:37.000Z</published>
+    <updated>2020-09-24T05:01:37.250Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;i class=&quot;fa
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>小站说明</title>
     <link href="https://tandy1229.com/archives/b4c1f0cd.html"/>
     <id>https://tandy1229.com/archives/b4c1f0cd.html</id>
     <published>2020-09-13T16:28:06.000Z</published>
-    <updated>2020-09-26T10:45:56.598Z</updated>
+    <updated>2020-09-26T10:45:56.590Z</updated>
     
     <summary type="html">
     
@@ -57,7 +97,7 @@
     <link href="https://tandy1229.com/archives/b20875a6.html"/>
     <id>https://tandy1229.com/archives/b20875a6.html</id>
     <published>2020-09-13T14:53:03.000Z</published>
-    <updated>2020-09-16T07:34:50.977Z</updated>
+    <updated>2020-10-17T18:54:14.300Z</updated>
     
     <summary type="html">
     
@@ -76,7 +116,7 @@
     <link href="https://tandy1229.com/archives/32090.html"/>
     <id>https://tandy1229.com/archives/32090.html</id>
     <published>2020-09-01T12:19:36.000Z</published>
-    <updated>2020-09-11T05:11:09.512Z</updated>
+    <updated>2020-09-11T05:11:09.510Z</updated>
     
     <summary type="html">
     
@@ -95,11 +135,11 @@
     <link href="https://tandy1229.com/archives/41611.html"/>
     <id>https://tandy1229.com/archives/41611.html</id>
     <published>2020-04-30T09:36:19.000Z</published>
-    <updated>2020-05-06T08:15:55.579Z</updated>
+    <updated>2020-05-06T08:15:55.570Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 16:33:27 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;利用CSS的&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;@media&lt;/span&gt; (&lt;span class=&quot;attribute&quot;&gt;prefers-color-scheme:&lt;/span&gt; dark)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
+      &lt;p&gt;利用CSS的&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;@media&lt;/span&gt; (&lt;span class=&quot;attribute&quot;&gt;prefers-color-scheme:&lt;/span&gt; dark)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;属性，实现了本博客的暗黑模式。&lt;br&gt;可随用户设备的主题样式无缝切换&lt;/p&gt;
     
     </summary>
     
@@ -114,7 +154,7 @@
     <link href="https://tandy1229.com/archives/47671.html"/>
     <id>https://tandy1229.com/archives/47671.html</id>
     <published>2020-04-28T13:44:58.000Z</published>
-    <updated>2020-09-26T14:06:32.161Z</updated>
+    <updated>2020-09-26T14:06:32.160Z</updated>
     
     <summary type="html">
     
@@ -127,29 +167,6 @@
     
     
       <category term="随想" scheme="https://tandy1229.com/tags/%E9%9A%8F%E6%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://tandy1229.com/archives/16107.html"/>
-    <id>https://tandy1229.com/archives/16107.html</id>
-    <published>2020-04-28T13:34:55.129Z</published>
-    <updated>2020-05-06T08:43:03.173Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!-- build time:Wed May 06 2020 16:43:13 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg&quot;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
