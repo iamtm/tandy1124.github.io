@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tandy1229.com/"/>
-  <updated>2020-12-02T13:17:06.873Z</updated>
+  <updated>2020-12-06T12:28:32.730Z</updated>
   <id>https://tandy1229.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sql</title>
+    <link href="https://tandy1229.com/archives/dbd66adf.html"/>
+    <id>https://tandy1229.com/archives/dbd66adf.html</id>
+    <published>2020-12-06T12:27:46.000Z</published>
+    <updated>2020-12-06T12:28:32.730Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Mac-Linux命令行配置指南</title>
