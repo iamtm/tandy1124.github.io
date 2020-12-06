@@ -58,6 +58,6 @@
   <entry>
     <title>ssql</title>
     <url>/archives/7c5963a3.html</url>
-    <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">CREATE TABLE &#96;AliceDB&#96;.&#96;PassengerInfo&#96; ( &#96;IDNumber&#96; CHAR(20) NOT NULL , &#96;Name&#96; CHAR(30) NOT NULL , &#96;PhoneNumber&#96; CHAR(20) NOT NULL , &#96;Country&#96; CHAR(30) NOT NULL , &#96;Address&#96; CHAR(30) NOT NULL , &#96;Email&#96; CHAR(50) NULL , &#96;DateOfBirth&#96; DATE NOT NULL , PRIMARY KEY (&#96;IDNumber&#96;(20))) ENGINE &#x3D; InnoDB;</span><br></pre></td></tr></table></figure>]]></content>
+    <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">CREATE TABLE &#96;AliceDB&#96;.&#96;PassengerInfo&#96; ( &#96;IDNumber&#96; CHAR(20) NOT NULL , &#96;Name&#96; CHAR(30) NOT NULL , &#96;PhoneNumber&#96; CHAR(20) NOT NULL , &#96;Country&#96; CHAR(30) NOT NULL , &#96;Address&#96; CHAR(30) NOT NULL , &#96;Email&#96; CHAR(50) NULL , &#96;DateOfBirth&#96; DATE NOT NULL , PRIMARY KEY (&#96;IDNumber&#96;(20))) ENGINE &#x3D; InnoDB;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Update AirLineInfo set</span><br><span class="line">DepartureTime&#x3D;Date_add(DepartureTime,INTERVAL 1 HOUR) where FlightNum &#x3D;&#39;JD5712&#39;and DepartureTime LIKE &quot;2020-05-28%&quot;</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
 </search>
